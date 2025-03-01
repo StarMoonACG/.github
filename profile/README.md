@@ -1,12 +1,6 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 星月工作室StarmoonACGStduio
+---
+#### info:
+- 星月次元工作室是一个开源团队
+- 目前团队内人员均为未成年！
+- 成员都会一些杂七杂八的语言（唯独雨汐啥都不会
